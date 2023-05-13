@@ -5,4 +5,4 @@ The repository can be used as a reference for more experienced data analysts who
 
 |Title | Notebook | Description
 |--|:--:|--|
-| Data Manipulation using pandas - Smoke detection IOT |[🔗](https://github.com/deepak4u/Web-Scraping/blob/main/Notebooks/IMDB%20Search%20and%20crawl%20metadata.ipynb) | This project aims to perform data manipulation on smoke detection IoT data, and structuring it for further analysis.
+| Data Manipulation using pandas - Smoke detection IOT |[🔗]([https://github.com/deepak4u/Web-Scraping/blob/main/Notebooks/IMDB%20Search%20and%20crawl%20metadata.ipynb](https://github.com/deepak4u/Pandas-Workspace/blob/main/Notebooks/Smoke%20detection%20IOT%20-%20Data%20Manipulation%20using%20pandas.ipynb)) | This project aims to perform data manipulation on smoke detection IoT data, and structuring it for further analysis.
